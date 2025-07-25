@@ -1,0 +1,15 @@
+{
+  "name": "XueEr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "install": "pnpm run --parallel /install:*/",
+    "build": "pnpm run --parallel /build:*/",
+    "lint": "pnpm run --parallel /^lint:*/",
+    "dev": "pnpm run --parallel /^dev:*/"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
