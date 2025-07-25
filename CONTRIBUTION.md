@@ -41,3 +41,13 @@ You can apply for the XueEr Core Dev via emails or any methods that are able to 
 Every months or quarters, XueEr Core Devs will evaluate who are eligible to become a XueEr Core Dev.
 We'll send you the invitation or contact you after the discussion.
 ```
+
+## Pull Request Review
+
+```
+For every pull requests in XueEr, it should be reviewed by reviewer.
+Currently, only the core devs of XueEr possess the permission of being a reviewer.
+For every pull requests that:
+    Created by Core Devs: Require one other core dev review.
+    Created by Non-Core Devs: Require two core devs review.
+```
