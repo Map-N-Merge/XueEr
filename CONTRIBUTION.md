@@ -15,7 +15,7 @@ Format: [Categories] {Message}
 
 For all the messages, you should write down the categories in front of the actual message.
 Categories include:
-  Frontend, Backend, Issue, Deploy, Bug, Doc
+  Frontend, Backend, Issue, Deploy, Bug, Doc, General(Impacting the whole project)
 
 For example:
 [Frontend] feat: login page implementation
