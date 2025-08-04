@@ -51,3 +51,11 @@ For every pull requests that:
     Created by Core Devs: Require one other core dev review.
     Created by Non-Core Devs: Require two core devs review.
 ```
+
+## TypeScript Type Rule
+
+```
+We believe that it's important to maintain a healthy codebase.
+Therefore, please ensure the similar type definitions for TypeScript aren't duplicated.
+Reuse the type or extend the original type.
+```
