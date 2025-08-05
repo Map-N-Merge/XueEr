@@ -59,3 +59,11 @@ We believe that it's important to maintain a healthy codebase.
 Therefore, please ensure the similar type definitions for TypeScript aren't duplicated.
 Reuse the type or extend the original type.
 ```
+
+## Prettier
+
+```
+We believe that it's important to maintain a good-looking and easy to read codebase.
+Therefore, please make sure use pnpm lint before every commits.
+We may deny or modify your codes if you send the PRs and commits without lint.
+```
