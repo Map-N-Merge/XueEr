@@ -1,3 +1,6 @@
 [submodule "backend"]
 	path = backend
 	url = https://github.com/Map-N-Merge/XueEr-Backend
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Map-N-Merge/XueEr-Frontend
